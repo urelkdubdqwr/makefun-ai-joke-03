@@ -1,4 +1,26 @@
-# Groundhog Hire — make.fun ai-joke-03 entry
+# makefun-ai-joke-03
+
+makefun-ai-joke-03
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
+
+Groundhog Hire — make.fun ai-joke-03 entry
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
 
 A deterministic program (pure Python 3 standard library) that writes
 one one-liner about AI coding agents to `/output/entry.txt`:
@@ -15,3 +37,13 @@ Run: `python3 main.py` writes the joke to `/output/entry.txt`
 no network, byte-identical on every run.
 
 Entrant: @urelkdubdqwr · License: MIT
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
